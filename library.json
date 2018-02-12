@@ -1,9 +1,10 @@
 {
+    "name": "SX1276Lib_pio",
+    "description": "Driver for the SX1276 RF Transceiver modified for platformio",
     "authors": {
         "name": "Semtech",
         "url": "https://os.mbed.com/teams/Semtech/"
     },
-    "description": "Driver for the SX1276 RF Transceiver modified for platformio",
     "frameworks": "mbed",
     "keywords": [
         "Lora",
@@ -16,7 +17,6 @@
         "LCD",
         "text"
     ],
-    "name": "SX1276Lib_pio",
     "platforms": "*",
     "repository": {
         "type": "git",
